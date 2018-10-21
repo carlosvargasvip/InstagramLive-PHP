@@ -4,7 +4,7 @@
 # author: Carlos Vargas
 # info@carlosvargas.com
 
-# Create Directory ./instagramlive
+# Create Directory ./instagramlive 
 md instagramlive
 cd instagramlive
 
