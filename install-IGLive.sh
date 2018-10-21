@@ -4,6 +4,10 @@
 # author: Carlos Vargas
 # info@carlosvargas.com
 
+# Create Directory
+md instagramlive
+cd instagramlive
+
 # Download Composer.phar
 
 EXPECTED_SIGNATURE="$(curl https://composer.github.io/installer.sig)"
